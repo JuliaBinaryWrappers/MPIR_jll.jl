@@ -1,0 +1,66 @@
+[[MPIR]]
+arch = "x86_64"
+git-tree-sha1 = "c8a4a610e359aaab54994dbb25ba3b35b93d9236"
+os = "macos"
+
+    [[MPIR.download]]
+    sha256 = "b7e3b2f458b6b6ec9b4154e7c5d692899a7baf66a1958e9e69eaa939285dd6e6"
+    url = "https://github.com/JuliaBinaryWrappers/MPIR_jll.jl/releases/download/MPIR-v3.0.1+0/MPIR.v3.0.1.x86_64-apple-darwin.tar.gz"
+[[MPIR]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "548d8fbc684acad759698a859bfa3faf9b2f51c0"
+libc = "glibc"
+os = "linux"
+
+    [[MPIR.download]]
+    sha256 = "a1b2899da7a46f30b509437f2c8ae05644dc6a72d9be5e252b7c8e77923a5462"
+    url = "https://github.com/JuliaBinaryWrappers/MPIR_jll.jl/releases/download/MPIR-v3.0.1+0/MPIR.v3.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[MPIR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6ff4721ab228ff316e4c824230ca44d4095e340d"
+libc = "glibc"
+os = "linux"
+
+    [[MPIR.download]]
+    sha256 = "45ab14cf59b8375215667a31f14c9fc8aa504e0dba8b901a934b03914a7782ae"
+    url = "https://github.com/JuliaBinaryWrappers/MPIR_jll.jl/releases/download/MPIR-v3.0.1+0/MPIR.v3.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[MPIR]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e57a4e610016f004efa31c824f66e619f24f49cd"
+libc = "musl"
+os = "linux"
+
+    [[MPIR.download]]
+    sha256 = "ed8ced416455c3b131d340df94808a6b0fbef835da64236b086df552f7924537"
+    url = "https://github.com/JuliaBinaryWrappers/MPIR_jll.jl/releases/download/MPIR-v3.0.1+0/MPIR.v3.0.1.x86_64-linux-musl-cxx03.tar.gz"
+[[MPIR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4c6df7996d06953a54a7bb73559e8d53fb2b512a"
+libc = "musl"
+os = "linux"
+
+    [[MPIR.download]]
+    sha256 = "4b081bf0e617eb7e2393937f0ebebd2917a9e4ed83a18bb623d656a7cdb3ca9f"
+    url = "https://github.com/JuliaBinaryWrappers/MPIR_jll.jl/releases/download/MPIR-v3.0.1+0/MPIR.v3.0.1.x86_64-linux-musl-cxx11.tar.gz"
+[[MPIR]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "941c5578beb4885b54a13874bd4b013b1752f05a"
+os = "windows"
+
+    [[MPIR.download]]
+    sha256 = "a123cc61d7e4cb808cf28f98abcf49a17e61382a075d1e932f6628109d845d6d"
+    url = "https://github.com/JuliaBinaryWrappers/MPIR_jll.jl/releases/download/MPIR-v3.0.1+0/MPIR.v3.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[MPIR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e7a9745379f1963535da912d01ed49d00a377019"
+os = "windows"
+
+    [[MPIR.download]]
+    sha256 = "04b0db38f3d2124262b0657645b0ac8a4110dfc30b0cd3b341227b393dcc7917"
+    url = "https://github.com/JuliaBinaryWrappers/MPIR_jll.jl/releases/download/MPIR-v3.0.1+0/MPIR.v3.0.1.x86_64-w64-mingw32-cxx11.tar.gz"

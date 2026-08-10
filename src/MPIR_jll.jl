@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("MPIR")
-JLLWrappers.@generate_main_file("MPIR", UUID("426c3dee-e38f-5a7f-9125-e2686f44d6f1"))
+JLLWrappers.@generate_main_file("MPIR", Base.UUID("426c3dee-e38f-5a7f-9125-e2686f44d6f1"))
 end  # module MPIR_jll
